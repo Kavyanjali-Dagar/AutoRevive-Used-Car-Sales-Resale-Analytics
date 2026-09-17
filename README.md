@@ -29,3 +29,4 @@ Created 2 Power BI dashboards: Market Overview and Pricing & Demand Analysis.
 Used SQL to perform business-focused analysis and Pandas for initial data preparation.
 
 Screenshot: 
+https://github.com/Kavyanjali-Dagar/AutoRevive-Used-Car-Sales-Resale-Analytics/blob/main/Cars%20Report%201.png
