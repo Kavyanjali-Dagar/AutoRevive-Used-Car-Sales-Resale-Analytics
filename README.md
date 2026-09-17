@@ -30,3 +30,4 @@ Used SQL to perform business-focused analysis and Pandas for initial data prepar
 
 Screenshot: 
 https://github.com/Kavyanjali-Dagar/AutoRevive-Used-Car-Sales-Resale-Analytics/blob/main/Cars%20Report%201.png
+https://github.com/Kavyanjali-Dagar/AutoRevive-Used-Car-Sales-Resale-Analytics/blob/main/Cars%20Report%202.png
